@@ -1,1 +1,3 @@
 # Even-Number-in-Python
+My last Repo for 2022...
+It was an adventurous journey exploring Majorly Python. 
